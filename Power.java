@@ -6,7 +6,7 @@ int a=2;b=3;
 int c=1;
 while(b!=0)
 {
-result*=a;
+c*=a;
 --b;
 }
 System.out.println(c);
